@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{461E8BF4-A30F-4EF7-8B17-900BB924AC0E}|TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M.csproj|C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\tiyatrob\u0130let\u0130m\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{461E8BF4-A30F-4EF7-8B17-900BB924AC0E}|TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M.csproj|solutionrelative:tiyatrob\u0130let\u0130m\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461E8BF4-A30F-4EF7-8B17-900BB924AC0E}|TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M.csproj|C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\tiyatrob\u0130let\u0130m\\views\\home\\oyunlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{461E8BF4-A30F-4EF7-8B17-900BB924AC0E}|TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M.csproj|solutionrelative:tiyatrob\u0130let\u0130m\\views\\home\\oyunlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461E8BF4-A30F-4EF7-8B17-900BB924AC0E}|TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M.csproj|c:\\users\\lenovo\\desktop\\tiyatrobiletim\\tiyatrob\u0130let\u0130m\\tiyatrob\u0130let\u0130m\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461E8BF4-A30F-4EF7-8B17-900BB924AC0E}|TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M.csproj|solutionrelative:tiyatrob\u0130let\u0130m\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461E8BF4-A30F-4EF7-8B17-900BB924AC0E}|TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M.csproj|c:\\users\\lenovo\\desktop\\tiyatrobiletim\\tiyatrob\u0130let\u0130m\\tiyatrob\u0130let\u0130m\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{461E8BF4-A30F-4EF7-8B17-900BB924AC0E}|TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M.csproj|solutionrelative:tiyatrob\u0130let\u0130m\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461E8BF4-A30F-4EF7-8B17-900BB924AC0E}|TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M.csproj|C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\tiyatrob\u0130let\u0130m\\views\\home\\biletfiyatlari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{461E8BF4-A30F-4EF7-8B17-900BB924AC0E}|TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M.csproj|solutionrelative:tiyatrob\u0130let\u0130m\\views\\home\\biletfiyatlari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461E8BF4-A30F-4EF7-8B17-900BB924AC0E}|TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M.csproj|C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\tiyatrob\u0130let\u0130m\\views\\home\\filmdetaylar\u0131.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{461E8BF4-A30F-4EF7-8B17-900BB924AC0E}|TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M.csproj|solutionrelative:tiyatrob\u0130let\u0130m\\views\\home\\filmdetaylar\u0131.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461E8BF4-A30F-4EF7-8B17-900BB924AC0E}|TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M.csproj|C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\tiyatrob\u0130let\u0130m\\enity\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461E8BF4-A30F-4EF7-8B17-900BB924AC0E}|TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M.csproj|solutionrelative:tiyatrob\u0130let\u0130m\\enity\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461E8BF4-A30F-4EF7-8B17-900BB924AC0E}|TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M.csproj|C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\tiyatrob\u0130let\u0130m\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{461E8BF4-A30F-4EF7-8B17-900BB924AC0E}|TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M.csproj|solutionrelative:tiyatrob\u0130let\u0130m\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M\\Web.config",
+              "RelativeDocumentMoniker": "TiyatroB\u0130LET\u0130M\\Web.config",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M\\Web.config",
+              "RelativeToolTip": "TiyatroB\u0130LET\u0130M\\Web.config",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-12T18:13:51.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BiletFiyatlari.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M\\Views\\Home\\BiletFiyatlari.cshtml",
+              "RelativeDocumentMoniker": "TiyatroB\u0130LET\u0130M\\Views\\Home\\BiletFiyatlari.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M\\Views\\Home\\BiletFiyatlari.cshtml",
+              "RelativeToolTip": "TiyatroB\u0130LET\u0130M\\Views\\Home\\BiletFiyatlari.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T17:21:50.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TiyatroB\u0130LET\u0130M\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TiyatroB\u0130LET\u0130M\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T17:16:24.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M\\Enity\\DataInitializer.cs",
+              "RelativeDocumentMoniker": "TiyatroB\u0130LET\u0130M\\Enity\\DataInitializer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M\\Enity\\DataInitializer.cs",
+              "RelativeToolTip": "TiyatroB\u0130LET\u0130M\\Enity\\DataInitializer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:46:45.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilmDetaylar\u0131.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M\\Views\\Home\\FilmDetaylar\u0131.cshtml",
+              "RelativeDocumentMoniker": "TiyatroB\u0130LET\u0130M\\Views\\Home\\FilmDetaylar\u0131.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M\\Views\\Home\\FilmDetaylar\u0131.cshtml",
+              "RelativeToolTip": "TiyatroB\u0130LET\u0130M\\Views\\Home\\FilmDetaylar\u0131.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T18:29:31.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Oyunlar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M\\Views\\Home\\Oyunlar.cshtml",
+              "RelativeDocumentMoniker": "TiyatroB\u0130LET\u0130M\\Views\\Home\\Oyunlar.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M\\Views\\Home\\Oyunlar.cshtml",
+              "RelativeToolTip": "TiyatroB\u0130LET\u0130M\\Views\\Home\\Oyunlar.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T18:26:55.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TiyatroB\u0130LET\u0130M\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TiyatroB\u0130LET\u0130M\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T17:42:33.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TiyatroB\u0130LET\u0130M\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\TiyatroBiletim\\TiyatroB\u0130LET\u0130M\\TiyatroB\u0130LET\u0130M\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TiyatroB\u0130LET\u0130M\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:39:05.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
